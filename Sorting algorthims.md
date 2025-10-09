@@ -1,0 +1,9 @@
+Shell sort
+Linear sort
+Bubble sort
+Shell sort
+Bogo sort
+Heap sort
+Insertion sort
+Quick sort
+Merge sort

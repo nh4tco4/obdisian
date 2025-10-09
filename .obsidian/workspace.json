@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "43f86586fdcf3dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "873c28f10b68c952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a32b7004757b70",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5e39488f84847e84",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Математический_Анализ_10_Профиматика.pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Математический_Анализ_10_Профиматика.pdf"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9756d9ea2eb04f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae1660e55cbd717",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3d090b2c6a1e2afe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dcddb53d6545e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f3c614d421d9507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5714e1f10c65109",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "900a6c134426b0ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0aa9f2681ffe2bbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b06851569af8a688",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a84c3c8d2f2995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24108f1ae6bdcf84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "профивышмат-1-предел.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for профивышмат-1-предел"
+            }
+          },
+          {
+            "id": "5dc29412ae7189f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "профивышмат-1-предел.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from профивышмат-1-предел"
+            }
+          },
+          {
+            "id": "6cc29504b97a813e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9996e5b6a6a229cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "профивышмат-1-предел.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of профивышмат-1-предел"
+            }
+          },
+          {
+            "id": "37ef2070e73fac5f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "5e39488f84847e84",
+  "lastOpenFiles": [
+    "pdfs/Математический_Анализ_9_Профиматика.pdf.pdf",
+    "pdfs/Математический_Анализ_1_Профиматика.pdf",
+    "Предел функции и непрерывность.md",
+    "Бином Ньютона.md",
+    "pdfs/Математический_Анализ_2_Профиматика.pdf",
+    "Фундаментальная Информатика/Книга_зайки.pdf",
+    "Диаграммы тьюринга.md",
+    "Фундаментальная Информатика/Автоматизация обработки информации.md",
+    "Фундаментальная Информатика/Тест.md",
+    "Фундаментальная Информатика/Алгоритм.md",
+    "Фундаментальная Информатика/Алгоритм упорядочивания слов.md",
+    "Фундаментальная Информатика/Важные фамилии.md",
+    "Фундаментальная Информатика/Диаграммы тьюринга.md",
+    "Фундаментальная Информатика/Интерпретация дискретных сообщений.md",
+    "Фундаментальная Информатика/Классы сложности.md",
+    "Фундаментальная Информатика/Конструктивное описание процесса обработки ДС.md",
+    "books/C Programming Language - 2nd Edition (OCR).pdf",
+    "books",
+    "pdfs/Математический_Анализ_3_Профиматика.pdf",
+    "pdfs/Математический_Анализ_4_Профиматика.pdf",
+    "pdfs/Математический_Анализ_5_Профиматика.pdf.pdf",
+    "pdfs/Математический_Анализ_6_Профиматика.pdf.pdf",
+    "pdfs/Математический_Анализ_7_Профиматика.pdf.pdf",
+    "Фундаментальная Информатика/Микроуровень.md",
+    "Фундаментальная Информатика/Необходимость формального определения алгоритма.md",
+    "Фундаментальная Информатика/Неформальное определение машины Тьюринга.md",
+    "Фундаментальная Информатика/Нормальные алгоритмы Маркова.md",
+    "Фундаментальная Информатика/Обработка информации.md",
+    "Фундаментальная Информатика/Обработка сообщений.md",
+    "Фундаментальная Информатика/Определения по МТ.md",
+    "Фундаментальная Информатика/Префиксные и постфиксные операторы C.md",
+    "Фундаментальная Информатика/Сложность алгоритма.md",
+    "Фундаментальная Информатика/Строгое определение Машины Тьюринга.md",
+    "Фундаментальная Информатика/Тезис Тьюринга-Черча.md",
+    "Фундаментальная Информатика/Теория и сигнатура.md",
+    "Фундаментальная Информатика/Числа с плавающей точкой.md",
+    "Карта Информатики.canvas"
+  ]
+}
