@@ -8,55 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8e66a8c8e04bbe7",
+            "id": "fb0cb3c5879f3378",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Подобие числовых матриц.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подобие числовых матриц"
             }
           }
         ]
       },
       {
-        "id": "36f0eaf6b9a0ee28",
+        "id": "89775bb4fc1ac43f",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1480d7334f5892",
+            "id": "85fd20d43ebabaf9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Зорич_Часть_1.pdf"
+                "file": "books/Бортаковский_линейная_алгебра.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Зорич_Часть_1"
-            }
-          },
-          {
-            "id": "54e70bf7a50cc963",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/Математический_Анализ_3_Профиматика.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Математический_Анализ_3_Профиматика"
-            }
-          },
-          {
-            "id": "90392c536a12f8bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Stewart_Calculus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Stewart_Calculus"
+              "title": "Бортаковский_линейная_алгебра"
             }
           }
         ]
@@ -91,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "слово",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,44 +203,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8e66a8c8e04bbe7",
+  "active": "85fd20d43ebabaf9",
   "lastOpenFiles": [
-    "Счетные множества.md",
-    "Предел.md",
-    "books/Зорич_Часть_1.pdf",
-    "Предел функции и непрерывность.md",
+    "books/Цифровое право_учебник 2025.pdf",
+    "pdfs/пайтон_кратко.pdf",
+    "pdfs/cheatsheet_sql_basics.pdf",
+    "books/антидемидович.pdf",
+    "books/демидович.pdf",
+    "books/савельев_физика.pdf",
+    "books/алгебра_и_тч_для_школьников.pdf",
+    "books/перестановки_линал_цг.pdf",
+    "pdfs/Теория_групп_записки_сумашедшего.pdf",
+    "pdfs/simpler-lambda-calculus.pdf",
+    "pdfs/SQL_For_Data_Analysis.pdf",
+    "Подобие числовых матриц.md",
+    "Комплексные числа.md",
+    "Спектр матрицы.md",
+    "Собственные векторы и значения.md",
     "Доска задач.md",
-    "pdfs/Математический_Анализ_3_Профиматика.pdf",
-    "Лемма о предельной точке множества (принцип Больцано-Вейерштрасса).md",
-    "books/Stewart_Calculus.pdf",
-    "pdfs/Математический_Анализ_4_Профиматика.pdf",
-    "Недоказанные утверждения.md",
-    "Лемма о конечном покрытии (принцип Бореля-Лебега).md",
-    "Лемма Коши-Кантора.md",
-    "Аксиоматика Теории Множеств.md",
-    "Последовательности.md",
-    "Лемма о вложенных отрезках.md",
-    "Неравенство треугольника.md",
-    "Окрестности и интервалы.md",
-    "Бином Ньютона.md",
-    "Фундаментальная Информатика/Диаграммы тьюринга.md",
-    "База данных.base",
-    "Тернарный оператор C.md",
-    "Принцип Архимеда.md",
-    "Основная Теорема Арифметики.md",
-    "Принцип верхней грани.md",
-    "Верхняя и точная верхняя грани.md",
-    "Мощность множества.md",
-    "Композиция функций.md",
-    "pdfs/Математический_Анализ_2_Профиматика.pdf",
-    "Кусочно-заданная функция.md",
-    "Four ways to represent function.md",
-    "Классификация отображений.md",
+    "Карта Информатики.canvas",
     "Карта Матанализа.canvas",
-    "books/ANSI_C.pdf",
-    "books/Астрадь.pdf",
-    "books/astro-notebook.pdf",
-    "books/Calculus_Early_Transcendentals_Ninth_Edition_by_James_Stewart,_Daniel.pdf",
-    "Карта Информатики.canvas"
+    "Фундаментальная Информатика/Алфавит.md",
+    "Нумерация конспектов профиматики матанализ.md",
+    "Структуры данных C++.md",
+    "Сигнум C.md",
+    "Фундаментальная Информатика/Знаки и символы.md",
+    "Проблема Гельберта.md",
+    "Алгоритмически неразрешимые задачи.md",
+    "Эквивалентность НАМ и МТ.md",
+    "Тезис Маркова.md",
+    "Функциональный Python.md",
+    "Эквивалентность диаграмм и программ МТ.md",
+    "C Programming Language - 2nd Edition (OCR).pdf.md",
+    "Математический Анализ.md",
+    "Фундаментальная Информатика/Нормальные алгоритмы Маркова.md",
+    "Понятие моделирования.md",
+    "[[Математический_Анализ_1_Профиматика.pdf]].md",
+    "Эквивалетность программ и диаграмм МТ.md",
+    "Критика модели вычислений Тьюринга.md",
+    "Untitled.md",
+    "Excalidraw/lab_1.md"
   ]
 }
