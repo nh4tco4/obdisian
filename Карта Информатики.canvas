@@ -340,10 +340,50 @@
 			"styleAttributes":{},
 			"x":2470,
 			"y":-1375,
-			"width":560,
+			"width":570,
 			"height":220
 		},
-		{"id":"167e6dbde23dc6a9","type":"text","text":"# Ассиметричное шифрование\nэто шифрование информации с применением открытого ключа, который можно передавать по незащищенным каналам связи\n[[Шифрование]]\n[Ссылка](https://encyclopedia.kaspersky.ru/glossary/asymmetric-encryption/)","x":2750,"y":-930,"width":400,"height":280}
+		{"id":"167e6dbde23dc6a9","type":"text","text":"# Ассиметричное шифрование\nэто шифрование информации с применением открытого ключа, который можно передавать по незащищенным каналам связи\n[[Шифрование]]\n[Ссылка](https://encyclopedia.kaspersky.ru/glossary/asymmetric-encryption/)","x":2750,"y":-930,"width":400,"height":280},
+		{
+			"id":"60cd2c4ae1d7f57a",
+			"type":"text",
+			"text":"# Диаграммы тьюринга\n\nДиаграммы Тьюринга представляют одни МТ через другие, более простые МТ иным, визуально-топологическом способом. Приче иэтот способ не менее строк и полон, нежели \"обычные\" МТ.\n[[Диаграммы тьюринга]]",
+			"styleAttributes":{},
+			"x":3080,
+			"y":-1660,
+			"width":460,
+			"height":220
+		},
+		{
+			"id":"f877fb2463ab287c",
+			"type":"text",
+			"text":"# Понятие моделлирования\n\nМашина $T'$ моделирует машину $T$ ($T\\simeq$T') если выполяются следующие 5 условий из заметки.\n[[Понятие моделирования]]",
+			"styleAttributes":{},
+			"x":3310,
+			"y":-1232,
+			"width":440,
+			"height":155
+		},
+		{
+			"id":"feeb0d495c168871",
+			"type":"text",
+			"text":"# Эквивалетность программ и диаграмм МТ\n\n**Теорема** Каждой диаграмме Тьюринга $D$ может быть эффективным обращом сопоставлена программа $P$ так, что МТ, описываемая этой программой, моделирует МТ, описываемую диаграммой $D$.\n[[Эквивалетность программ и диаграмм МТ]]",
+			"styleAttributes":{},
+			"x":3960,
+			"y":-1280,
+			"width":520,
+			"height":240
+		},
+		{
+			"id":"4a1e0524bf0e75d4",
+			"type":"text",
+			"text":"# Эквивалетность диаграмм и программ МТ\n**Теорема** Каждой программе $P$, задающей МТ $T =\\langle A, Q ,P, q_{0}\\rangle$, можно эффективным образом сопоставить диаграмму $D$, образованную символами МТ, так, чтобы МТ, определяемая этой диаграммой, моделировала бы машину $T$\n[[Эквивалентность диаграмм и программ МТ]]",
+			"styleAttributes":{},
+			"x":3310,
+			"y":-930,
+			"width":650,
+			"height":240
+		}
 	],
 	"edges":[
 		{"id":"dd7d95aba7bb5be6","toFloating":false,"fromNode":"c3a662a2ca00c3ad","fromSide":"right","toNode":"bb9e9eb206c7054b","toSide":"left","fromEnd":"arrow"},
@@ -702,6 +742,69 @@
 			"fromSide":"bottom",
 			"toNode":"9eb24c0744f42dac",
 			"toSide":"top"
+		},
+		{
+			"id":"096d76ec41bd0524",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9eb24c0744f42dac",
+			"fromSide":"right",
+			"toNode":"60cd2c4ae1d7f57a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d769e9523f9caa27",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a9965a6377f6ce4a",
+			"fromSide":"right",
+			"toNode":"60cd2c4ae1d7f57a",
+			"toSide":"left"
+		},
+		{
+			"id":"c80c499093755dc5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60cd2c4ae1d7f57a",
+			"fromSide":"right",
+			"toNode":"f877fb2463ab287c",
+			"toSide":"top"
+		},
+		{
+			"id":"1a14098ab75d9e9c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f877fb2463ab287c",
+			"fromSide":"bottom",
+			"toNode":"4a1e0524bf0e75d4",
+			"toSide":"top"
+		},
+		{
+			"id":"a7da5908539ed381",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f877fb2463ab287c",
+			"fromSide":"right",
+			"toNode":"feeb0d495c168871",
+			"toSide":"left"
+		},
+		{
+			"id":"f231ec4776056ca2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"feeb0d495c168871",
+			"fromSide":"bottom",
+			"toNode":"4a1e0524bf0e75d4",
+			"toSide":"right"
+		},
+		{
+			"id":"98f9306945b846c8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4a1e0524bf0e75d4",
+			"fromSide":"right",
+			"toNode":"feeb0d495c168871",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

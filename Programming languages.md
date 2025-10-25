@@ -7,6 +7,7 @@
 [[Typst]]
 [[LaTeX]]
 [[Python]]
+[[GLSL]]
 
 Изучить в будущем
 [[Zig]]
@@ -15,3 +16,4 @@
 [[Elixir]]
 [[TypeScript]]
 [[Haskell]]
+[[SQL]]
